@@ -1,1 +1,1 @@
-# javascript-lec
+# JAVASCRIPTS-LEC
